@@ -1,0 +1,6 @@
+{
+  "name": "OmniEngineer",
+  "description": "Universal learning platform for every engineering student to master any subject, skill, or technology across all disciplines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
